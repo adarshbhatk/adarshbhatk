@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarshbhatk
+- 👋 Hi, I’m @adarshbhatk 24, structural engineer
 - 👀 I’m interested in data science and technology
 - 🌱 I’m currently learning something new everyday
 - 💞️ I’m looking to collaborate on solving real-world civil engineering problems
