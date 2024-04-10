@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarshbhatk 24
+- 👋 Hi, I’m @adarshbhatk 25
 - 👀 Formally (& formerly) a structural engineer, currently building digital products
 - 🌱 Interested in technology; trying to learn something new everyday
 - 💞️ I’m looking to collaborate on solving real-world engineering problems
