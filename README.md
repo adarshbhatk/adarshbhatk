@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adarshbhatk 25
-- 👀 Formally (& formerly) a structural engineer, currently building digital products
-- 🌱 Interested in technology; trying to learn something new everyday
-- 💞️ I’m looking to collaborate on solving real-world engineering problems
+- 👋 Hi, I’m Adarsh, 26
+- 👀 Formally (& formerly) a structural engineer, currently an APM building digital products
+- 🌱 Interested in technology; trying to learn something new every day
+- 💞️ I’m looking to collaborate on solving real-world problems
 - 📫 We can connect on LinkedIn at in/adarshbhatk
 
 <!---
