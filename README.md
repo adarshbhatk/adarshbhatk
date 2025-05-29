@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Adarsh, 27
-- 👀 Formally (& formerly) a structural engineer, currently a PM building digital products
-- 🌱 Interested in technology; trying to learn something new every day
-- 💞️ I’m looking to collaborate on solving problems for users and making an impact (small or big) using tech.
-- 📫 We can connect on LinkedIn at in/adarshbhatk
+- 👋 Hi, I’m Adarsh!
+- 👀 Structural engineer by education, Product Manager building digitally
+- 🌱 Interested in design & engineering; Try to learn new things every day
+- 💞️ Open to collaborate and solve meaningful user problems
+- 📫 We can connect on LinkedIn at [in/adarshbhatk](https://www.linkedin.com/in/adarshbhatk/)
+- 📖 More details -> [adarshk.in](https://adarshk.in/)
 
 <!---
 adarshbhatk/adarshbhatk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
